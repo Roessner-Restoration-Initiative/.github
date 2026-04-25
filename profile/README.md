@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="rri-logo.png" width="140" alt="Roessner Restoration Initiative" />
+  <a href="https://rrinitiative.org">
+    <img src="rri-logo.png" width="120" alt="Roessner Restoration Initiative" />
+  </a>
 </p>
 
 <h1 align="center">Roessner Restoration Initiative</h1>
@@ -14,9 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://rrinitiative.org"><img src="https://img.shields.io/badge/rrinitiative.org-1a365d?style=flat-square" alt="Website" /></a>
-  <a href="mailto:info@rrinitiative.org"><img src="https://img.shields.io/badge/info@rrinitiative.org-1a365d?style=flat-square" alt="Email" /></a>
+  <a href="https://rrinitiative.org"><img src="https://img.shields.io/badge/rrinitiative.org-103859?style=flat-square" alt="Website" /></a>
+  <a href="https://www.rrinitiative.org/about-4"><img src="https://img.shields.io/badge/About-103859?style=flat-square" alt="About" /></a>
+  <a href="https://www.rrinitiative.org/portfolio"><img src="https://img.shields.io/badge/Gallery-103859?style=flat-square" alt="Gallery" /></a>
   <a href="https://www.instagram.com/rrinitiative/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:info@rrinitiative.org"><img src="https://img.shields.io/badge/Contact-5090B0?style=flat-square" alt="Contact" /></a>
 </p>
 
 ---
@@ -29,11 +33,13 @@
 
 | Program | Focus | Region |
 |:--------|:------|:-------|
-| **[WhaleID AI](https://whaleid.org)** | Anatomical AI for humpback whale re-identification | Global |
-| **Sumatra EcoEconomy** | Community ranger programs protecting tigers, rhinos, elephants, orangutans | Indonesia |
-| **Rwanda Agricultural Cooperatives** | Regenerative farming and beekeeping near mountain gorilla habitat | Rwanda |
-| **Madagascar Expedition** | Community conservation for the blue-eyed black lemur | Madagascar |
-| **Remote Energy Infrastructure** | Decentralized energy systems that fund ecosystem restoration | Global |
+| **[WhaleID AI](https://www.rrinitiative.org/projects/whale-id-ai)** | Anatomical AI for humpback whale re-identification | Global |
+| **[Sumatra EcoEconomy](https://www.rrinitiative.org/projects/sumatra-ecoeconomy)** | Community ranger programs protecting tigers, rhinos, elephants, orangutans | Indonesia |
+| **[Rwanda Agricultural Cooperatives](https://www.rrinitiative.org/projects/rwanda-agricultural-cooperatives)** | Regenerative farming and beekeeping near mountain gorilla habitat | Rwanda |
+| **[Madagascar Expedition](https://www.rrinitiative.org/projects/madagascar%3A-expedition-to-a-forgotten-forest)** | Community conservation for the blue-eyed black lemur | Madagascar |
+| **[The Choco Expedition](https://www.rrinitiative.org/projects/the-choc%C3%B3%3A-expedition-to-survey-the-unexplored)** | Biodiversity survey of unexplored tropical forest | Colombia |
+| **[Patagonia Puma Expedition](https://www.rrinitiative.org/projects/patagonia%3A-puma-expedition-)** | Puma tracking and conservation research | Chile |
+| **[Remote Energy Infrastructure](https://www.rrinitiative.org/projects/remote-energy-infrastructure)** | Decentralized energy systems that fund ecosystem restoration | Global |
 
 ### Technology
 
@@ -51,6 +57,14 @@ We build AI-native conservation tools — computer vision for wildlife re-identi
 
 *[Empowering Remote Conservation Through Digital Governance](https://www.scribd.com/document/925139163/)* — Alex Roessner, 2025
 
+### Support
+
+RRI is a 501(c)(3) nonprofit. All donations are tax-deductible.
+
+<p align="center">
+  <a href="https://wise.com/pay/business/roessnerrestorationinitiativeinc"><img src="https://img.shields.io/badge/Donate-103859?style=for-the-badge" alt="Donate" /></a>
+</p>
+
 ---
 
-<p align="center"><sub>EIN 99-0623087 · <a href="https://rrinitiative.org">rrinitiative.org</a></sub></p>
+<p align="center"><sub>EIN 99-0623087 · <a href="https://rrinitiative.org">rrinitiative.org</a> · <a href="mailto:info@rrinitiative.org">info@rrinitiative.org</a></sub></p>
