@@ -57,6 +57,18 @@ We build AI-native conservation tools — computer vision for wildlife re-identi
 
 *[Empowering Remote Conservation Through Digital Governance](https://www.scribd.com/document/925139163/)* — Alex Roessner, 2025
 
+### Founder
+
+**[Alex Roessner](https://github.com/alexroessner)** is co-founder of [Landseed PBC](https://landseed.earth), building measurement infrastructure for ecological markets with Greg Curtis, Patagonia's former Deputy General Counsel. Landseed deploys continuous sensor networks on conserved land and issues Earth Credits — instruments that measure ecological condition across six dimensions, anchored to county-recorded legal deeds, designed to replace the estimation architecture of the voluntary carbon market.
+
+He arrived at this work from the field. Roessner has tracked Sumatran tigers in the Leuser Ecosystem, documented grassroots lemur conservation in Madagascar, surveyed unmapped terrain in Ecuador's Chocó, followed wild pumas through Patagonia, and photographed sperm whales in Dominica. He built [WhaleID](https://whaleid.org), a computer vision system for humpback whale re-identification, and a co-authored paper on cetacean re-identification is expected in 2026.
+
+He also arrived from markets. As Managing Partner of Mythos Liquid Capital, a systematic digital asset fund, he developed the quantitative orientation that shapes how he thinks about ecological market design. He serves as Vice President of the [Savia Foundation](https://saviafoundation.org).
+
+<sub>Northwestern University — double B.A., Economics & Environmental Policy, three years, Division I baseball · Trienens Institute "Grads to Watch," Class of 2025 · Proficient in Mandarin · New York</sub>
+
+<sub><a href="https://www.linkedin.com/in/alex-roessner-0a9ba722a/">LinkedIn</a> · <a href="https://github.com/alexroessner">GitHub</a> · <a href="https://x.com/alex_roessner">X</a> · <a href="https://www.instagram.com/alr_photo/">@alr_photo</a></sub>
+
 ### Support
 
 RRI is a 501(c)(3) nonprofit. All donations are tax-deductible.
