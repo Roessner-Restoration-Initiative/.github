@@ -65,7 +65,7 @@ Roessner is also co-founder of [Landseed PBC](https://landseed.earth), where he 
 
 <sub>Northwestern University — double B.A., Economics & Environmental Policy, three years, Division I baseball · Trienens Institute "Grads to Watch," Class of 2025 · Proficient in Mandarin · New York</sub>
 
-<sub><a href="https://www.linkedin.com/in/alex-roessner-0a9ba722a/">LinkedIn</a> · <a href="https://github.com/alexroessner">GitHub</a> · <a href="https://x.com/alex_roessner">X</a> · <a href="https://www.instagram.com/alr_photo/">@alr_photo</a></sub>
+<sub><a href="https://www.linkedin.com/in/alex-roessner-0a9ba722a/">LinkedIn</a> · <a href="https://github.com/alexroessner">GitHub</a> · <a href="https://x.com/alex_roessner">X</a> · <a href="https://www.instagram.com/alr_photo_/">@alr_photo_</a></sub>
 
 ### Support
 
