@@ -59,11 +59,9 @@ We build AI-native conservation tools — computer vision for wildlife re-identi
 
 ### Founder
 
-**[Alex Roessner](https://github.com/alexroessner)** is co-founder of [Landseed PBC](https://landseed.earth), building measurement infrastructure for ecological markets with Greg Curtis, Patagonia's former Deputy General Counsel. Landseed deploys continuous sensor networks on conserved land and issues Earth Credits — instruments that measure ecological condition across six dimensions, anchored to county-recorded legal deeds, designed to replace the estimation architecture of the voluntary carbon market.
+**[Alex Roessner](https://github.com/alexroessner)** founded RRI from the field — tracking Sumatran tigers in the Leuser Ecosystem, documenting lemur conservation in Madagascar, surveying unmapped terrain in Ecuador's Chocó, following wild pumas through Patagonia, and photographing sperm whales in Dominica. He built [WhaleID](https://whaleid.org) to identify individual humpback whales from any body part using computer vision, and a co-authored paper on cetacean re-identification is expected in 2026.
 
-He arrived at this work from the field. Roessner has tracked Sumatran tigers in the Leuser Ecosystem, documented grassroots lemur conservation in Madagascar, surveyed unmapped terrain in Ecuador's Chocó, followed wild pumas through Patagonia, and photographed sperm whales in Dominica. He built [WhaleID](https://whaleid.org), a computer vision system for humpback whale re-identification, and a co-authored paper on cetacean re-identification is expected in 2026.
-
-He also arrived from markets. As Managing Partner of Mythos Liquid Capital, a systematic digital asset fund, he developed the quantitative orientation that shapes how he thinks about ecological market design. He serves as Vice President of the [Savia Foundation](https://saviafoundation.org).
+Roessner is also co-founder of [Landseed PBC](https://landseed.earth), where he builds measurement infrastructure for ecological markets with Greg Curtis, Patagonia's former Deputy General Counsel. Previously Managing Partner of Mythos Liquid Capital. Vice President of the [Savia Foundation](https://saviafoundation.org).
 
 <sub>Northwestern University — double B.A., Economics & Environmental Policy, three years, Division I baseball · Trienens Institute "Grads to Watch," Class of 2025 · Proficient in Mandarin · New York</sub>
 
