@@ -1,36 +1,44 @@
 <h1 align="center">Roessner Restoration Initiative</h1>
 
-<p align="center"><strong>Stewardship | Sovereignty | Regeneration</strong></p>
+<p align="center">
+  <strong>Stewardship · Sovereignty · Regeneration</strong>
+</p>
 
 <p align="center">
-  501(c)(3) nonprofit dedicated to the protection and restoration of critical ecosystems worldwide.<br/>
-  We build at the intersection of conservation science, indigenous stewardship, and technology.
+  501(c)(3) nonprofit building conservation technology, leading field expeditions,<br/>
+  and designing regenerative economic systems for ecosystem protection.
+</p>
+
+<p align="center">
+  <a href="https://rrinitiative.org">Website</a> ·
+  <a href="mailto:info@rrinitiative.org">Contact</a> ·
+  <a href="https://www.instagram.com/rrinitiative/">Instagram</a>
 </p>
 
 ---
 
-### What We Do
+### Featured
 
-We develop conservation technology, lead field expeditions, and build regenerative economic systems that empower local communities to protect their ecosystems.
+**[WhaleID](https://whaleid.org)** — The first AI system built for full-body whale photo identification. Six neural networks analyze six anatomical regions to identify individual humpback whales from any body part, any angle. Multiplicative fusion scoring requires model consensus — not just one strong signal. Live at **[whaleid.org](https://whaleid.org)**.
 
-### Active Programs
+### Programs
 
-| Program | Focus |
-|---------|-------|
-| **[WhaleID AI](https://whaleid.org)** | Agentic AI for real-time humpback whale identification from any body part, any angle |
-| **Sumatra EcoEconomy** | Protecting tigers, rhinos, elephants, and orangutans through community-led ranger programs |
-| **Rwanda Agricultural Cooperatives** | Regenerative farming and beekeeping near protected mountain gorilla habitat |
-| **Madagascar Expedition** | Community-driven conservation for the critically endangered blue-eyed black lemur |
-| **Remote Energy Infrastructure** | Decentralized, community-governed energy systems that restore ecosystems |
+| Program | Focus | Region |
+|:--------|:------|:-------|
+| **[WhaleID AI](https://whaleid.org)** | Anatomical AI for humpback whale re-identification | Global |
+| **Sumatra EcoEconomy** | Community ranger programs protecting tigers, rhinos, elephants, orangutans | Indonesia |
+| **Rwanda Agricultural Cooperatives** | Regenerative farming and beekeeping near mountain gorilla habitat | Rwanda |
+| **Madagascar Expedition** | Community conservation for the blue-eyed black lemur | Madagascar |
+| **Remote Energy Infrastructure** | Decentralized energy systems that fund ecosystem restoration | Global |
 
 ### Technology
 
-Our engineering work focuses on AI-native conservation tools — computer vision, wildlife re-identification, and agentic systems that decentralize scientific fieldwork.
+We build AI-native conservation tools — computer vision for wildlife re-identification, camera trap automation, and agentic systems that decentralize scientific fieldwork. Our stack: PyTorch, Modal (serverless GPU), Supabase, Gemini, and DINOv2-family vision models.
+
+### Research
+
+*[Empowering Remote Conservation Through Digital Governance](https://www.scribd.com/document/925139163/)* — Alex Roessner, 2025
 
 ---
 
-<p align="center">
-  <a href="https://rrinitiative.org">rrinitiative.org</a> · <a href="mailto:info@rrinitiative.org">info@rrinitiative.org</a> · <a href="https://www.instagram.com/rrinitiative/">Instagram</a>
-</p>
-
-<p align="center"><sub>EIN 99-0623087</sub></p>
+<p align="center"><sub>EIN 99-0623087 · <a href="https://rrinitiative.org">rrinitiative.org</a></sub></p>
