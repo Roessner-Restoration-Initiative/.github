@@ -23,7 +23,7 @@
 
 ### Featured
 
-**[WhaleID](https://whaleid.org)** — The first AI system built for full-body whale photo identification. Six neural networks analyze six anatomical regions to identify individual humpback whales from any body part, any angle. Multiplicative fusion scoring requires model consensus — not just one strong signal. Live at **[whaleid.org](https://whaleid.org)**.
+**[WhaleID](https://whaleid.org)** — v1 is live. The first AI system built for full-body whale photo identification. Six neural networks analyze six anatomical regions to identify individual humpback whales from any body part, any angle — especially underwater encounters that traditional fluke-matching can't process. Upload any whale photo for free at **[whaleid.org](https://whaleid.org)**.
 
 ### Programs
 
