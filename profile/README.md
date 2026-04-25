@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="rri-logo.png" width="140" alt="Roessner Restoration Initiative" />
+</p>
+
 <h1 align="center">Roessner Restoration Initiative</h1>
 
 <p align="center">
@@ -5,14 +9,14 @@
 </p>
 
 <p align="center">
-  501(c)(3) nonprofit building conservation technology, leading field expeditions,<br/>
-  and designing regenerative economic systems for ecosystem protection.
+  <sub>501(c)(3) nonprofit building conservation technology, leading field expeditions,<br/>
+  and designing regenerative economic systems for ecosystem protection.</sub>
 </p>
 
 <p align="center">
-  <a href="https://rrinitiative.org">Website</a> ·
-  <a href="mailto:info@rrinitiative.org">Contact</a> ·
-  <a href="https://www.instagram.com/rrinitiative/">Instagram</a>
+  <a href="https://rrinitiative.org"><img src="https://img.shields.io/badge/rrinitiative.org-1a365d?style=flat-square" alt="Website" /></a>
+  <a href="mailto:info@rrinitiative.org"><img src="https://img.shields.io/badge/info@rrinitiative.org-1a365d?style=flat-square" alt="Email" /></a>
+  <a href="https://www.instagram.com/rrinitiative/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -33,7 +37,15 @@
 
 ### Technology
 
-We build AI-native conservation tools — computer vision for wildlife re-identification, camera trap automation, and agentic systems that decentralize scientific fieldwork. Our stack: PyTorch, Modal (serverless GPU), Supabase, Gemini, and DINOv2-family vision models.
+We build AI-native conservation tools — computer vision for wildlife re-identification, camera trap automation, and agentic systems that decentralize scientific fieldwork.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Modal-5046E5?style=flat-square" alt="Modal" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
 ### Research
 
